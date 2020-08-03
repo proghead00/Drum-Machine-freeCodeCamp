@@ -1,0 +1,128 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    background-color: #e9cad5
+}
+
+
+/*👉first row👈*/
+#drum-1 {
+
+    height: 200px;
+    width: 200px;
+
+}
+
+#drum-2 {
+
+    height: 200px;
+    width: 200px;
+}
+
+#drum-0 {
+
+    height: 200px;
+    width: 200px;
+}
+
+.check1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+
+}
+
+/*👉second row👈*/
+
+#drum-3 {
+
+    height: 200px;
+    width: 200px;
+
+}
+
+#drum-4 {
+
+    height: 200px;
+    width: 200px;
+}
+
+#drum-5 {
+
+    height: 200px;
+    width: 200px;
+}
+
+.check2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+
+/*👉third row👈*/
+#drum-6 {
+
+    height: 200px;
+    width: 200px;
+
+}
+
+#drum-7 {
+
+    height: 200px;
+    width: 200px;
+}
+
+#drum-8 {
+
+    height: 200px;
+    width: 200px;
+}
+
+.check3 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+
+
+}
+
+
+
+.text-center {
+    margin-top: 1rem;
+
+    color: #1f0c2c;
+}
+
+#display {
+    font-size: 34px;
+    text-align: center;
+}
+
+.btn-primary {
+    background: #ff7979;
+}
+
+.btn-primary:hover {
+    background: #eb4d4b;
+}
+
+.btn-primary:focus {
+    background: #EA2027;
+    opacity: .7;
+}
+
+
+.card-body {
+    background: #000;
+    opacity: .7;
+}
+
+.checks {
+    font-size: 26px;
+}
